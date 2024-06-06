@@ -5,7 +5,7 @@ sys.setrecursionlimit(200000)
 # Instancia variavel inicio
 inicio = time.time()
 
-# Contadores globais
+# Contadores globaiss
 comparisons = 0
 swaps = 0
 
